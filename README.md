@@ -1,6 +1,5 @@
 # Strobulon! The LED Helmet
-Author: Jonathan Warren
 
-Last Updated: September 9, 2020
+Code and project files for my wearable LED helmet
 
-URL: https://jhwarren.com/projects/Strobulon/
+https://jhwarren.com/projects/Strobulon/
